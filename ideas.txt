@@ -1,0 +1,108 @@
+# Ideas...
+
+...I needed a place for them.
+Take them, make them real.
+
+hackbot / hbot / hb
+  + Why?
+    - Github bot
+    - Scriptable interface that invokes cli commands.
+    - Make more programs available on commandline
+    - Don't want to learn more commands. Let hbot figure it all out.
+  + Architecture
+    - Syntax parser
+    - Semantic parser
+    - Chainable Hooks (what should be executed)
+  + API integration and library support:
+    - hbot play Rhianna (last.fm)
+    - hbot trivia Rhianna Umbrella
+    - hbot grab www.reddit.com (beautiful soup)
+    - hbot show usage stats
+    - hbot find dissertation (unix commandline tools)
+    - hbot imgurl pic.png (imgurl, returns url)
+    - hbot howto upload images to imgurl (-> commandlinefu search)
+  + Custom Symlinks: 
+    - hb next tt game == hb calendar next tt
+  + Create your own tools
+    - hbot project mayhem # Opens project files and apps
+    - hbot new text file in /asdf/asdf
+   + Events?
+    - hb notify lakers game via email
+Ajax PHP lib
+Smalltalk app (find next topic for conversation)
+Facebook Bot
+etherpad + timeshift + git = total awesomeness.
+  timeshrink chronoshrink
+  http://www.blog.helgemorgenstern.de/en/2010/february/open-source-etherpad-macosx
+http://vexflow.com/tabdiv/
+less.sr
+grep.pr -- dip the soup
+lis.st  --I have so many ideas that I want to capture.
+three years of mac osx. The good the bad the ugly
+  Good:
+    The Little things (shows how many emails, prints…)
+  Bad:
+    tabs in finder --> totalfinder
+    The little things (program stays in navigation bar after exit)
+      Dockbar is a joke
+      maximize windows
+      adapters
+JavaScript as a first programming language
+  - JQuery
+  - The web as a platform (from notebook to iPhone)
+  - Node.js
+  - Processing.js Raphael
+Canvas Paint, Canvas Spline tool, Canvas Grapher -> Latex output
+MathDown - Markdown for Math + HTML Tag for Math just as for code
+Browsers: What I learned from "View source".
+finding lost people on chatroulette (findroulette)
+css3 image grey transformaion jquery magic (majick)
+hackbox - like dropbox but pushing your code/text to github
+My new desktop (a language interface)
+A node.js window manager (with X11 bindings)
+Winterbells + physics
+Write Articles
+  python vs. ruby functional programming
+  semi work mode (procastination, distraction)
+  Coffescript as a first programming language
+    - node.js, 
+    - Projects: https://github.com/jashkenas/coffee-script/wiki/In-The-Wild
+    - It grows with your abilities(Functional aspects)
+  Facebook: the next Google or MySpace? It depends on what you do with the data.
+  You decide what you build in your life; a prison or a castle.
+  be your own mentor (table tennis)
+  i hate the state (object oriented programming sucks)
+  Switching from functional programming to OO - a users experience
+  Vim Supercharged (from vi to vim to MacVim and beyond)
+    http://www.vim.org/scripts/script.php?script_id=1230
+  what we can learn from wikia
+  meta-programming (the language and the idea behind)
+  No MSDNAA
+  overengineering (taskpool, abstraction layer)
+  movies about computers (pirates of silicon valley)
+  Goodbye Firefox. Hello Google Chrome!
+  xml vs. json
+  hackers guide to mandarin
+iPhone lock Macbook (app gets key for macbook.
+  Check if notebook is locked on opening -> request password to unlock.
+CSS fade out color animation
+music match
+stack overflow for tutorials
+bid on flats
+kudo
+  We hate creating invoices. Let's hack our way out. 
+  -> repetitive tasks (client info)
+  Solution: Do the simplest thing possible
+  Manage Client data: CSV?
+  Invoice data: Yaml?
+  Screenshot!
+  kudo path/to/invoice.yaml
+mightier cd:
+  fuzzy cd (ls: file-long-name => cd long wechselt zum verzeichnis)
+  multi-directory change cd 5 .. == cd ..... == cd ../../../../
+Cool Project Names:
+  -kusdo
+  -caim
+  -felton
+  -awkberg
+  -zoidberg

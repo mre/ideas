@@ -1,0 +1,8 @@
+# Ideas...
+
+...I needed a place for them.
+Some of them are bad, others are horribly bad.
+But they are my own ideas and I'm happy to share them.
+Maybe I will find the time to make some of them become a reality. Almost
+certainly I won't. So feel free to fork them, report issues or sell
+them.
