@@ -4,30 +4,30 @@
 Take them, make them real.
 
 hackbot / hbot / hb
-  + Why?
-    - Github bot
-    - Scriptable interface that invokes cli commands.
-    - Make more programs available on commandline
-    - Don't want to learn more commands. Let hbot figure it all out.
-  + Architecture
-    - Syntax parser
-    - Semantic parser
-    - Chainable Hooks (what should be executed)
-  + API integration and library support:
-    - hbot play Rhianna (last.fm)
-    - hbot trivia Rhianna Umbrella
-    - hbot grab www.reddit.com (beautiful soup)
-    - hbot show usage stats
-    - hbot find dissertation (unix commandline tools)
-    - hbot imgurl pic.png (imgurl, returns url)
-    - hbot howto upload images to imgurl (-> commandlinefu search)
-  + Custom Symlinks: 
-    - hb next tt game == hb calendar next tt
-  + Create your own tools
-    - hbot project mayhem # Opens project files and apps
-    - hbot new text file in /asdf/asdf
-   + Events?
-    - hb notify lakers game via email
+  Why?
+    Github bot
+    Scriptable interface that invokes cli commands.
+    Make more programs available on commandline
+    Don't want to learn more commands. Let hbot figure it all out.
+  Architecture
+    Syntax parser
+    Semantic parser
+    Chainable Hooks (what should be executed)
+  API integration and library support:
+    hbot play Rhianna (last.fm)
+    hbot trivia Rhianna Umbrella
+    hbot grab www.reddit.com (beautiful soup)
+    hbot show usage stats
+    hbot find dissertation (unix commandline tools)
+    hbot imgurl pic.png (imgurl, returns url)
+    hbot howto upload images to imgurl (-> commandlinefu search)
+  Custom Symlinks: 
+    hb next tt game == hb calendar next tt
+  Create your own tools
+    hbot project mayhem # Opens project files and apps
+    hbot new text file in /asdf/asdf
+   Events?
+    hb notify lakers game via email
 Ajax PHP lib
 Smalltalk app (find next topic for conversation)
 Facebook Bot
@@ -37,7 +37,7 @@ etherpad + timeshift + git = total awesomeness.
 http://vexflow.com/tabdiv/
 less.sr
 grep.pr -- dip the soup
-lis.st  --I have so many ideas that I want to capture.
+lis.st  -- I have so many ideas that I want to capture.
 three years of mac osx. The good the bad the ugly
   Good:
     The Little things (shows how many emails, prints…)
@@ -48,10 +48,10 @@ three years of mac osx. The good the bad the ugly
       maximize windows
       adapters
 JavaScript as a first programming language
-  - JQuery
-  - The web as a platform (from notebook to iPhone)
-  - Node.js
-  - Processing.js Raphael
+  JQuery
+  The web as a platform (from notebook to iPhone)
+  Node.js
+  Processing.js Raphael
 Canvas Paint, Canvas Spline tool, Canvas Grapher -> Latex output
 MathDown - Markdown for Math + HTML Tag for Math just as for code
 Browsers: What I learned from "View source".
@@ -65,9 +65,9 @@ Write Articles
   python vs. ruby functional programming
   semi work mode (procastination, distraction)
   Coffescript as a first programming language
-    - node.js, 
-    - Projects: https://github.com/jashkenas/coffee-script/wiki/In-The-Wild
-    - It grows with your abilities(Functional aspects)
+    node.js, 
+    Projects: https://github.com/jashkenas/coffee-script/wiki/In-The-Wild
+    It grows with your abilities(Functional aspects)
   Facebook: the next Google or MySpace? It depends on what you do with the data.
   You decide what you build in your life; a prison or a castle.
   be your own mentor (table tennis)
@@ -101,8 +101,8 @@ mightier cd:
   fuzzy cd (ls: file-long-name => cd long wechselt zum verzeichnis)
   multi-directory change cd 5 .. == cd ..... == cd ../../../../
 Cool Project Names:
-  -kusdo
-  -caim
-  -felton
-  -awkberg
-  -zoidberg
+  kusdo
+  caim
+  felton
+  awkberg
+  zoidberg
