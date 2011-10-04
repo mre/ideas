@@ -54,14 +54,14 @@ JavaScript as a first programming language
   Processing.js Raphael
 Canvas Paint, Canvas Spline tool, Canvas Grapher -> Latex output
 MathDown - Markdown for Math + HTML Tag for Math just as for code
-Browsers: What I learned from "View source".
 finding lost people on chatroulette (findroulette)
 css3 image grey transformaion jquery magic (majick)
 hackbox - like dropbox but pushing your code/text to github
-My new desktop (a language interface)
 A node.js window manager (with X11 bindings)
 Winterbells + physics
 Write Articles
+  My new desktop (a language interface)
+  Browsers: What I learned from "View source".
   python vs. ruby functional programming
   semi work mode (procastination, distraction)
   Coffescript as a first programming language
@@ -83,7 +83,7 @@ Write Articles
   Goodbye Firefox. Hello Google Chrome!
   xml vs. json
   hackers guide to mandarin
-iPhone lock Macbook (app gets key for macbook.
+iPhone lock Macbook (app gets key for macbook)
   Check if notebook is locked on opening -> request password to unlock.
 CSS fade out color animation
 music match
@@ -97,12 +97,19 @@ kudo
   Invoice data: Yaml?
   Screenshot!
   kudo path/to/invoice.yaml
+Node.js shell, nash
 mightier cd:
   fuzzy cd (ls: file-long-name => cd long wechselt zum verzeichnis)
   multi-directory change cd 5 .. == cd ..... == cd ../../../../
 Cool Project Names:
-  kusdo
+  awkberg
   caim
   felton
-  awkberg
+  femto
+  kusdo
   zoidberg
+Use Uberspace webspace
+Mac Keyboard Joke App
+  Modify keystrokes with
+    l33tsp34k
+    occasional errors (one in every ten keystrokes gets replaced)
