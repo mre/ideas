@@ -7,13 +7,23 @@ JavaScript as a first programming language Book
   Language: Coffeescript
     It grows with your abilities(Functional aspects)
   Topics:
-    Chapter 1:
+    Simple introduction
+      About me
+        Why I love programming
+        How I learned programming
+        What you need
+          Patience
+          Creativity
+    Starting right away
       Setup
         Online REPL
       Question game
         Printing Strings
         Reading Strings
-    Chapter 2: The fun things
+    Datatypes
+      Working with Arrays
+        Game: Mastermind
+    Libraries and reusable code
       Setup
         Prepackaged IDE (sandbox) for Desktop
         Node.js
@@ -24,17 +34,34 @@ JavaScript as a first programming language Book
       Address Manager
         Parsing files
         Objects
-    Chapter 3: The web
+    The web
       Setup
         JQuery
       Modifying a website
       Creating a website
-    Chapter 4: GUIs
+    GUIs
       Cappucino
       Titanium
       Cocoa JS bindings
-    Chapter 5: Let's get crazy
+    Being creative
+      Standing on the shoulders of giants
       Drawing with Processing.js Raphael
       Video Processing on Canvas
-    References
-      https://github.com/jashkenas/coffee-script/wiki/In-The-Wild
+    How to go from here
+      Learn how to use an editor
+      Learn a version control system
+      Testing and debugging
+      Learn other languages
+        Why?
+        One other scripting language: Python, Ruby, Groovy
+        One systems language: C
+        One low-level language: Brainfuck, Assembler
+        One functional language: Lisp
+    Appendix
+      Philosophy
+        Tell only the things you urgently need to know
+        Explain the problem, make errors and come back to the solution
+        Elegant code
+      How to contribute
+      References
+        https://github.com/jashkenas/coffee-script/wiki/In-The-Wild
