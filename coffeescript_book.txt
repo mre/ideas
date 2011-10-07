@@ -50,7 +50,6 @@ JavaScript as a first programming language Book
     Where to go from here
       Learn how to use an editor
       Learn a version control system
-      Testing and debugging
       Learn other languages
         Why?
         One other scripting language: Python, Ruby, Groovy
@@ -60,6 +59,8 @@ JavaScript as a first programming language Book
       Learn from great developers
         Read code from others
         Fork projects, commit changes, pull requests
+      Stay away from evangelists
+        TDD, refactoring, design patterns are great but no eternal truth
     Appendix
       Philosophy
         Tell only the things you urgently need to know

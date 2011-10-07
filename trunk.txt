@@ -39,3 +39,9 @@ Tracker
   via websockets, dotcloud a.s.o.
 Gulag
   A mac app in the style of SelfControl which also blocks Programs and Files/Folders
+Terminal browser
+  img2txt
+  v8 Javascript engine
+  webkit
+  vim shortcuts
+  global stylesheet
