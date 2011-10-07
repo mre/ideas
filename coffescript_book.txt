@@ -47,7 +47,7 @@ JavaScript as a first programming language Book
       Standing on the shoulders of giants
       Drawing with Processing.js Raphael
       Video Processing on Canvas
-    How to go from here
+    Where to go from here
       Learn how to use an editor
       Learn a version control system
       Testing and debugging
@@ -57,6 +57,9 @@ JavaScript as a first programming language Book
         One systems language: C
         One low-level language: Brainfuck, Assembler
         One functional language: Lisp
+      Learn from great developers
+        Read code from others
+        Fork projects, commit changes, pull requests
     Appendix
       Philosophy
         Tell only the things you urgently need to know

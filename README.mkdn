@@ -1,13 +1,14 @@
-# Why ideas?
+# What's the deal?
 
-...I needed a place for them. Also if something new comes up I will
-share a link to my ideas file and tell everybody I had the idea years
+...I need a place for my ideas. Also if something new comes up I will  
+share a link to this project tell everybody I had the idea years  
 before ;)
 
-Some of them are bad, others are horribly bad, but they are my own ideas and I'm happy to share them.  
+Some of them are bad, others are horribly bad, but they are my own ideas  
+and I'm happy to share them.  
 
-Maybe I will find the time to make some of them become a reality. Almost
-certainly I won't. So feel free to fork them, report issues or 
+Maybe I will find the time to make some of them become a reality.  
+Almost certainly I won't. So feel free to fork them, report issues or  
 [make them become reality][1] .
 
 [1]: http://www.youtube.com/watch?v=8rwsuXHA7RA
