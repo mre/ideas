@@ -1,0 +1,46 @@
+# Ideas...
+
+...I needed a place for them.
+Take them, make them real.
+
+songli.st
+Ajax PHP lib
+Smalltalk app (find next topic for conversation)
+Facebook Bot
+etherpad + timeshift + git = total awesomeness.
+  timeshrink chronoshrink
+  http://www.blog.helgemorgenstern.de/en/2010/february/open-source-etherpad-macosx
+http://vexflow.com/tabdiv/
+less.sr
+grep.pr -- dip the soup
+lis.st  -- I have so many ideas that I want to capture.
+Canvas Paint, Canvas Spline tool, Canvas Grapher -> Latex output
+MathDown - Markdown for Math + HTML Tag for Math just as for code
+finding lost people on chatroulette (findroulette)
+css3 image grey transformaion jquery magic (majick)
+hackbox - like dropbox but pushing your code/text to github
+A node.js window manager (with X11 bindings)
+Winterbells + physics
+iPhone lock Macbook (app gets key for macbook)
+  Check if notebook is locked on opening -> request password to unlock.
+CSS fade out color animation
+music match
+stack overflow for tutorials
+bid on flats
+Node.js shell, nash
+mightier cd:
+  fuzzy cd (ls: file-long-name => cd long wechselt zum verzeichnis)
+  multi-directory change cd 5 .. == cd ..... == cd ../../../../
+Use Uberspace webspace
+Keyboard Joke App
+  Chrome and Mac plugin
+  Modify keystrokes with
+    l33tsp34k
+    occasional errors (one in every ten keystrokes gets replaced)
+Tracker
+  Website which shows status messages (list items) on:
+    git commits (via hoocks)
+    file changes (logs,...)
+  via websockets, dotcloud a.s.o.
+Gulag
+  A mac app in the style of SelfControl which also blocks Programs and Files/Folders

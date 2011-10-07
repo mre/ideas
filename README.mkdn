@@ -1,11 +1,10 @@
-# Ideas...
+# Why ideas?
 
-...I needed a place for them.  
+...I needed a place for them. Also if something new comes up I will
+share a link to my projects file and tell everybody I had the idea years
+before ;)
 
 Some of them are bad, others are horribly bad, but they are my own ideas and I'm happy to share them.  
 
-Maybe I will find the time to make some of them become a reality. Almost
-certainly I won't. 
-
-So feel free to fork them, report issues or sell
+Maybe I will find the time to make some of them become a reality. Almost certainly I won't. So feel free to fork them, report issues or sell
 them.

@@ -1,0 +1,29 @@
+Write Articles
+  My new desktop (a language interface)
+  Browsers: What I learned from "View source".
+  python vs. ruby functional programming
+  semi work mode (procastination, distraction)
+  Facebook: the next Google or MySpace? It depends on what you do with the data.
+  You decide what you build in your life; a prison or a castle.
+  be your own mentor (table tennis)
+  i hate the state (object oriented programming sucks)
+  Switching from functional programming to OO - a users experience
+  Vim Supercharged (from vi to vim to MacVim and beyond)
+    http://www.vim.org/scripts/script.php?script_id=1230
+  what we can learn from wikia
+  meta-programming (the language and the idea behind)
+  No MSDNAA
+  overengineering (taskpool, abstraction layer)
+  movies about computers (pirates of silicon valley)
+  Goodbye Firefox. Hello Google Chrome!
+  xml vs. json
+  hackers guide to mandarin
+  three years of mac osx. The good the bad the ugly
+    Good:
+      The Little things (shows how many emails, prints…)
+    Bad:
+      tabs in finder --> totalfinder
+      The little things (program stays in navigation bar after exit)
+        Dockbar is a joke
+        maximize windows
+        adapters

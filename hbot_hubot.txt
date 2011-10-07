@@ -1,0 +1,25 @@
+hackbot / hbot / hb
+  Why?
+    Github bot (hubot)
+    Scriptable interface that invokes cli commands.
+    Make more programs available on commandline
+    Don't want to learn more commands. Let hbot figure it all out.
+  Architecture
+    Syntax parser
+    Semantic parser
+    Chainable Hooks (what should be executed)
+  API integration and library support:
+    hbot play Rhianna (last.fm)
+    hbot trivia Rhianna Umbrella
+    hbot grab www.reddit.com (beautiful soup)
+    hbot show usage stats
+    hbot find dissertation (unix commandline tools)
+    hbot imgurl pic.png (imgurl, returns url)
+    hbot howto upload images to imgurl (-> commandlinefu search)
+  Custom Symlinks: 
+    hb next tt game == hb calendar next tt
+  Create your own tools
+    hbot project mayhem # Opens project files and apps
+    hbot new text file in /asdf/asdf
+   Events?
+    hb notify lakers game via email

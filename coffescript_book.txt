@@ -1,0 +1,40 @@
+JavaScript as a first programming language Book
+  Layout: 
+    Plain markdown files
+    CSS classes as tags, for instance: 
+      { #note }, { #developer }
+    Rendering script for the web
+  Language: Coffeescript
+    It grows with your abilities(Functional aspects)
+  Topics:
+    Chapter 1:
+      Setup
+        Online REPL
+      Question game
+        Printing Strings
+        Reading Strings
+    Chapter 2: The fun things
+      Setup
+        Prepackaged IDE (sandbox) for Desktop
+        Node.js
+        Coffescript
+      A working app: Editor
+        Opening files
+        Writing files
+      Address Manager
+        Parsing files
+        Objects
+    Chapter 3: The web
+      Setup
+        JQuery
+      Modifying a website
+      Creating a website
+    Chapter 4: GUIs
+      Cappucino
+      Titanium
+      Cocoa JS bindings
+    Chapter 5: Let's get crazy
+      Drawing with Processing.js Raphael
+      Video Processing on Canvas
+    References
+      https://github.com/jashkenas/coffee-script/wiki/In-The-Wild

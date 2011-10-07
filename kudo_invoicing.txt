@@ -1,0 +1,8 @@
+kudo
+  We hate creating invoices. Let's hack our way out. 
+  -> repetitive tasks (client info)
+  Solution: Do the simplest thing possible
+  Manage Client data: CSV?
+  Invoice data: Yaml?
+  Screenshot!
+  kudo path/to/invoice.yaml
