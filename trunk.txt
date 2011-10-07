@@ -1,8 +1,3 @@
-# Ideas...
-
-...I needed a place for them.
-Take them, make them real.
-
 songli.st
 Ajax PHP lib
 Smalltalk app (find next topic for conversation)
