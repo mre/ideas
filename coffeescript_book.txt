@@ -10,9 +10,16 @@ JavaScript as a first programming language Book
     Simple introduction
       About me
         Why I love programming
-        How I learned programming
+          Coding someting is more fun than using it (even games).
+          Automating stuff gives you superhero strength
+          Teach a piece of metal how to do stuff.
+          Elegant, creative solutions
+        How I learned to program
         What you need
-          Patience
+          Patience 
+            Learning any skill needs time. A lot of time.
+            Fortunately you learn while doing cool things.
+          Curiosity
           Creativity
     Starting right away
       Setup
@@ -59,6 +66,9 @@ JavaScript as a first programming language Book
       Learn from great developers
         Read code from others
         Fork projects, commit changes, pull requests
+      Contribute to an open community
+        Why this book can exist (because of open source software)
+        Whenever possible, share your code. It is for all our benefit.
       Stay away from evangelists
         TDD, refactoring, design patterns are great but no eternal truth
     Appendix
@@ -66,6 +76,7 @@ JavaScript as a first programming language Book
         Tell only the things you urgently need to know
         Explain the problem, make errors and come back to the solution
         Elegant code
+        Make it platform independent
       How to contribute
       References
         https://github.com/jashkenas/coffee-script/wiki/In-The-Wild
