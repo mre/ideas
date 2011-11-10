@@ -1,29 +1,69 @@
-Write Articles
-  My new desktop (a language interface)
-  Browsers: What I learned from "View source".
-  python vs. ruby functional programming
-  semi work mode (procastination, distraction)
-  Facebook: the next Google or MySpace? It depends on what you do with the data.
-  You decide what you build in your life; a prison or a castle.
-  be your own mentor (table tennis)
-  i hate the state (object oriented programming sucks)
-  Switching from functional programming to OO - a users experience
-  Vim Supercharged (from vi to vim to MacVim and beyond)
-    http://www.vim.org/scripts/script.php?script_id=1230
-  what we can learn from wikia
-  meta-programming (the language and the idea behind)
-  No MSDNAA
-  overengineering (taskpool, abstraction layer)
-  movies about computers (pirates of silicon valley)
-  Goodbye Firefox. Hello Google Chrome!
-  xml vs. json
-  hackers guide to mandarin
-  three years of mac osx. The good the bad the ugly
-    Good:
-      The Little things (shows how many emails, prints…)
-    Bad:
-      tabs in finder --> totalfinder
-      The little things (program stays in navigation bar after exit)
-        Dockbar is a joke
-        maximize windows
-        adapters
+My new desktop (a language interface)
+Browsers: What I learned from "View source".
+python vs. ruby functional programming
+semi work mode (procastination, distraction)
+Facebook: the next Google or MySpace? It depends on what you do with the data.
+You decide what you build in your life; a prison or a castle.
+be your own mentor (table tennis)
+i hate the state (object oriented programming sucks)
+Switching from functional programming to OO - a users experience
+Vim Supercharged (from vi to vim to MacVim and beyond)
+  http://www.vim.org/scripts/script.php?script_id=1230
+what we can learn from wikia
+meta-programming (the language and the idea behind)
+No MSDNAA
+overengineering (taskpool, abstraction layer)
+movies about computers (pirates of silicon valley)
+Goodbye Firefox. Hello Google Chrome!
+xml vs. json
+hackers guide to mandarin
+three years of mac osx. The good the bad the ugly
+  Good:
+    The Little things (shows how many emails, prints…)
+  Bad:
+    tabs in finder --> totalfinder
+    The little things (program stays in navigation bar after exit)
+      Dockbar is a joke
+      maximize windows
+      adapters
+faye vs juggernaut vs pusher vs pubnub
+i'm getting old: terminal interfaces and heroku
+pickuplines
+We need a new App Store
+  no credit card information
+  sandox? pah!
+    http://lacquer.fi/pauli/blog/2011/11/why-the-mac-app-sandbox-makes-me-sad/
+  no fees
+  free and commercial
+  free to use
+  fair comparison of software
+  platform independent html
+  supports all plattforms
+  decentralized
+Programming language criticism
+  Java
+  Javascript
+  PHP
+  C++
+The obsolete myth
+  For programmers, everything we know is pretty much guaranteed to be obsolete in 10 years if we're lucky, and 5 years if we aren't
+  Basic knowledge is always precious: algorithms, low level programming, basically computer science.
+RescueTime API Tutorial
+  Install cjson (http://pypi.python.org/pypi/python-cjson)
+The Rise of functional programming
+  Hardware support due to multiple cores.
+The new Apple is not for me
+  Maybe I'm getting old
+  Apple, the computer company
+  Apple, the phone company
+  Dumbed down Apps instead of Applications
+  Safari, Launcher, MissionControl, Quicktime, Fullscreen view, Finder,
+  Dockbar
+  Locked down system
+    iTunes -> sell music
+    Coding is 4 GB away
+      Cocoa is great, but...
+      XCode in AppStore
+      Appstore sandbox
+      Credit card for gcc
+What happens when you type "PRINT Hello World"

@@ -1,7 +1,11 @@
 songli.st
 Ajax PHP lib
 Smalltalk app (find next topic for conversation)
-Facebook Bot
+Facebook Bot (Cute little Joshua posts random status updates and befriends everybody)
+  http://www.couchbase.com/downloads/couchbase-single-server/community
+  python setup.py install (pip didn't work for me)
+    http://pypi.python.org/pypi/CouchDB/0.8
+
 etherpad + timeshift + git = total awesomeness.
   timeshrink chronoshrink
   http://www.blog.helgemorgenstern.de/en/2010/february/open-source-etherpad-macosx
@@ -34,10 +38,10 @@ Keyboard Joke App
     occasional errors (one in every ten keystrokes gets replaced)
 Tracker
   Website which shows status messages (list items) on:
-    git commits (via hoocks)
+    git commits (via hooks)
     file changes (logs,...)
   via websockets, dotcloud a.s.o.
-Gulag
+Gulag / Train / Noprocast
   A mac app in the style of SelfControl which also blocks Programs and Files/Folders
 Terminal browser
   img2txt
@@ -45,3 +49,29 @@ Terminal browser
   webkit
   vim shortcuts
   global stylesheet
+Simple, unobstrusive language learning web-app
+  Show a word at top and ask for a translation below
+  Use afterthedeadline.com for spell-checking user input
+  Keep learned words in local storage
+  Show statistics
+  Show progress of others (Make my process visible for others)
+bookmark command
+  bm
+  example
+    bm downloads (downloads is now a link to the current folder)
+    cd downloads (as expected)
+Task command
+  YAML file
+    task: blogpost
+    start:
+      - vim
+      - articles folder
+    end
+      - mail
+      - browser
+Facebook Cron (fbcon?)
+  Send status / messages later
+  Node.js app
+    Event-Driven
+  Decrypted
+  
