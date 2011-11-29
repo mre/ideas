@@ -42,6 +42,7 @@ Tracker
     file changes (logs,...)
   via websockets, dotcloud a.s.o.
 Gulag / Train / Noprocast
+  Work raises its ugly head
   A mac app in the style of SelfControl which also blocks Programs and Files/Folders
 Terminal browser
   img2txt
@@ -74,4 +75,6 @@ Facebook Cron (fbcon?)
   Node.js app
     Event-Driven
   Decrypted
-  
+randommeme.com/drunk -> Get random drunk meme
+randome.me
+  Heroku app

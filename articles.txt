@@ -47,12 +47,22 @@ Programming language criticism
   C++
 The obsolete myth
   For programmers, everything we know is pretty much guaranteed to be obsolete in 10 years if we're lucky, and 5 years if we aren't
+  Fortunately this statement is plain out wrong. OK, Java-libraries get
+deprecated and we are using auto-pointers in C++ now but most of the
+things you learn will be true your entire life.
+  Also, computing history: Why do we speak of "core memory"? Where do carriage return and linefeed come from? Unix and the PDP-1, lisp machines
   Basic knowledge is always precious: algorithms, low level programming, basically computer science.
+  Computer science is maturing. Some basic algorithms like A-Star or Bubblesort will still be taught in a thousand years.
+  It's a bit like euler distance or pythagoras: Little gems and neat tricks we can leverage our entire life.
 RescueTime API Tutorial
   Install cjson (http://pypi.python.org/pypi/python-cjson)
 The Rise of functional programming
   Hardware support due to multiple cores.
 The new Apple is not for me
+  I get the idea: It's not called dumbed down, it's *user-friendly*
+  But it feels like we get locked in a plattform. (Objective-C on iPhones)
+  Do you really want to open downloaded file?
+  Apple doesn't adhere to its own standards (maximize button in iTunes, Appstore design)
   Maybe I'm getting old
   Apple, the computer company
   Apple, the phone company
@@ -61,9 +71,11 @@ The new Apple is not for me
   Dockbar
   Locked down system
     iTunes -> sell music
-    Coding is 4 GB away
-      Cocoa is great, but...
-      XCode in AppStore
-      Appstore sandbox
-      Credit card for gcc
+    So maybe you just need a terminal and a compiler?
+      Coding is 4 GB away
+        Cocoa is great, but...
+        XCode in AppStore
+        Appstore sandbox
+        Credit card for gcc
 What happens when you type "PRINT Hello World"
+Given an infite amount of time, what could you possibly accomplish?
