@@ -101,7 +101,8 @@ Book JavaScript as a first programming language
             It grows with your abilities (Functional aspects)
             http://blog.fogus.me/2011/10/18/programming-language-development-the-past-5-years/
           Clear syntax to focus on concepts
-        Just like python it's beautiful, simple and readable
+            Indendation enforces rigid code
+            Just like python it's precise, simple and readable
       Philosophy
         Tell only the things you urgently need to know
         Explain the problem, make errors and come back to the solution
@@ -111,7 +112,7 @@ Book JavaScript as a first programming language
         Layout:
           Plain markdown files
           Jekyll rendering for the web
-          CSS classes as tags, for instance: 
+          CSS classes as tags, for instance:
             { #note }, { #developer }
           Fixed color palette: grey and red.
           Funny pixel graphics

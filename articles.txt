@@ -79,3 +79,14 @@ The new Apple is not for me
         Credit card for gcc
 What happens when you type "PRINT Hello World"
 Given an infite amount of time, what could you possibly accomplish?
+Essay
+  Meandering, for me, is the true essence of an essay.
+  A well-written essay takes you on a journey. A journey through your
+thoughts and lets you think about some abstract topic - Maybe even get a
+peak into the future.
+TeX/LaTeX
+  Great system
+    Hands down the best typesetting software
+  Obscure programming language
+  Could be easier to create macros for
+  Quite wordy

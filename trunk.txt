@@ -42,6 +42,7 @@ Tracker
     file changes (logs,...)
   via websockets, dotcloud a.s.o.
 Gulag / Train / Noprocast
+  You will hate this program.
   Work raises its ugly head
   A mac app in the style of SelfControl which also blocks Programs and Files/Folders
 Terminal browser
@@ -50,6 +51,9 @@ Terminal browser
   webkit
   vim shortcuts
   global stylesheet
+Vim etherpad plugin
+  Record all my goofs and typing errors.
+  Get a clearer picture of my thinking process.
 Simple, unobstrusive language learning web-app
   Show a word at top and ask for a translation below
   Use afterthedeadline.com for spell-checking user input
@@ -78,3 +82,12 @@ Facebook Cron (fbcon?)
 randommeme.com/drunk -> Get random drunk meme
 randome.me
   Heroku app
+Piracy is here to stay.
+Musings in lisp
+oz - A frontend for toto
+Just start something
+  Hacking is a way of expression
+  Express in any way possible
+  Don't think about it
+  Create a git repo whenever you feel like it.
+Text broser, rendering everything as LaTeX
