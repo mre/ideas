@@ -1,3 +1,10 @@
+iChicks iPhone app
+  Where you met them
+  What she was drinking
+  Photo with cam
+  HB rating
+  Type: Approach, #-close, f-close
+  Password-secured
 songli.st
 Ajax PHP lib
 Smalltalk app (find next topic for conversation)
@@ -91,3 +98,4 @@ Just start something
   Don't think about it
   Create a git repo whenever you feel like it.
 Text broser, rendering everything as LaTeX
+iPhone app:.explain meaning of first name

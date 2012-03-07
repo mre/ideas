@@ -31,7 +31,7 @@ i'm getting old: terminal interfaces and heroku
 pickuplines
 We need a new App Store
   no credit card information
-  sandox? pah!
+  sandbox? pah!
     http://lacquer.fi/pauli/blog/2011/11/why-the-mac-app-sandbox-makes-me-sad/
   no fees
   free and commercial
@@ -90,3 +90,9 @@ TeX/LaTeX
   Obscure programming language
   Could be easier to create macros for
   Quite wordy
+  Just like Coffeescript, we should generate a langauge which "compiles"
+    into LaTeX
+The problem with open source software
+  Fixing bugs is not fun: http://www.jwz.org/doc/cadt.html
+  Cups printer manager now at apple
+  half baked drivers
