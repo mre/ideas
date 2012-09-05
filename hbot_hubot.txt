@@ -10,13 +10,13 @@ hackbot / hbot / hb
     Chainable Hooks (what should be executed)
   API integration and library support:
     hbot play Rhianna (last.fm)
-    hbot trivia Rhianna Umbrella
+    hbot trivia Rhianna Umbrella (songfacts)
     hbot grab www.reddit.com (beautiful soup)
     hbot show usage stats
     hbot find dissertation (unix commandline tools)
-    hbot imgurl pic.png (imgurl, returns url)
+    hbot imgurl pic.png (upload to imgurl, returns url)
     hbot howto upload images to imgurl (-> commandlinefu search)
-  Custom Symlinks: 
+  Custom Symlinks:
     hb next tt game == hb calendar next tt
   Create your own tools
     hbot project mayhem # Opens project files and apps

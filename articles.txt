@@ -96,3 +96,5 @@ The problem with open source software
   Fixing bugs is not fun: http://www.jwz.org/doc/cadt.html
   Cups printer manager now at apple
   half baked drivers
+Spikes
+

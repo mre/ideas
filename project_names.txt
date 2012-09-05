@@ -1,15 +1,22 @@
-Cool Project Names:
-  awkberg
-  caim
-  felton
-  femto
-  kusdo
-  zoidberg
-  flowly
-  central station
-  Gogol
-  Bordello
-  Gulag
-  pfirsh
-  como
-  hivecast
+awkberg
+bordello
+caim
+calm
+central station
+cogra
+como
+copine (crony port)
+due (todo manager)
+effin
+enough
+felton
+femto
+fiire
+flowly
+gogol
+gulag
+hivecast
+kusdo
+pfirsh
+progre.ss
+zoidberg

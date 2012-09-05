@@ -5,6 +5,9 @@ iChicks iPhone app
   HB rating
   Type: Approach, #-close, f-close
   Password-secured
+Mindfuck movie list
+List of computer movies
+Funny synonyms
 songli.st
 Ajax PHP lib
 Smalltalk app (find next topic for conversation)
@@ -12,7 +15,6 @@ Facebook Bot (Cute little Joshua posts random status updates and befriends every
   http://www.couchbase.com/downloads/couchbase-single-server/community
   python setup.py install (pip didn't work for me)
     http://pypi.python.org/pypi/CouchDB/0.8
-
 etherpad + timeshift + git = total awesomeness.
   timeshrink chronoshrink
   http://www.blog.helgemorgenstern.de/en/2010/february/open-source-etherpad-macosx
@@ -81,7 +83,7 @@ Task command
     end
       - mail
       - browser
-Facebook Cron (fbcon?)
+Facebook Cron (fbcron?)
   Send status / messages later
   Node.js app
     Event-Driven
@@ -99,3 +101,54 @@ Just start something
   Create a git repo whenever you feel like it.
 Text broser, rendering everything as LaTeX
 iPhone app:.explain meaning of first name
+Stuff that reminds me of you
+  Facebook app
+  A little treasure with text, images, video in it...
+  ...of stuff that reminds you of your friends.
+  Turn-based (http://blog.jackcheng.com/post/25160553986/the-slow-web)
+stackr
+  Infromation diet
+  Slow web (http://blog.jackcheng.com/post/25160553986/the-slow-web)
+  Richard Stallman: E-Mail websites cron
+  A text-based web filter
+  Social filter
+    Facebook plugin -> show five most relevant fb entries
+    Google plugin -> return a list of top five google search results
+    E-Mail plugin -> Check mail every n hours
+Picture out of words -> a hack idea
+  take 1000 keywords that you associate with a person
+  take one beautiful greyscale image of that person
+  create a new picture out of these words
+Strangers for dinner
+  Anfrage -> Restaurant, Uhrzeit, max. Gruppenstärke
+  Rückantwort anonym
+Delayed fb messages
+  Send a compliment to a person every seven days
+  http://news.ycombinator.com/item?id=4118010
+  A good friend of mine sends out a brief monthly email, summarizing what he's been up to, the movies he's seen and the music he's listened to. It is something I look forward to receiving.
+Picture tag
+Virtueller Kummerkasten
+Opensource Poker engine/bot
+chrome bildschirmschoner
+tetris clone
+Things You Will Never Do
+Band Names
+  Black Banana
+  The Dropping Dead
+Hack day
+  Split green and red from image
+The power of constraints
+  Why only 20% time off?
+  http://www.codinghorror.com/blog/2012/08/today-is-goof-off-at-work-day.htmlc
+Reddit funny picture wall
+  http://www.reddit.com/r/funny.json?limit=10&after=0
+Read first n Facebook Users and draw graph
+	See /Users/matthiasendler/Code/snippets/python/fb_sandbox
+	Force-Directed Graph
+		Connections: Geographic distance between people < 20 km?
+		http://mbostock.github.com/d3/ex/force.html
+Rescue RescueTime - Get your data out of RescueTime
+tracker - an open source rescutime clone
+  Inspired by
+  http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/
+
