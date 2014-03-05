@@ -136,7 +136,19 @@ Band Names
   Black Banana
   The Dropping Dead
 Hack day
-  Split green and red from image
+Split green and red from image
+  See letterize for PIL, then
+    # split the image into individual bands
+    source = im.split()
+    R, G, B = 0, 1, 2
+    # select regions where red is less than 100
+    mask = source[R].point(lambda i: i < 100 and 255)
+    # process the green band
+    out = source[G].point(lambda i: i * 0.7)
+    # paste the processed band back, but only where red was < 100
+    source[G].paste(out, None, mask)
+    # build a new multiband image
+    im = Image.merge(im.mode, source)
 The power of constraints
   Why only 20% time off?
   http://www.codinghorror.com/blog/2012/08/today-is-goof-off-at-work-day.htmlc
@@ -151,4 +163,213 @@ Rescue RescueTime - Get your data out of RescueTime
 tracker - an open source rescutime clone
   Inspired by
   http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/
-
+Estimate Good code, bad code depending on line length
+  Use github api and get a file from a codebase
+  Use some kind of spoiler formatting (hidden text until you hover) for
+  each line
+Deciphering a kernel panic
+  Resources: /Code/debug/kernelpanic
+Picture in corner
+  Anamor.py
+  http://www.instructables.com/id/How-to-do-3D-Anamorphic-Artwork-and-Sidewalk-Stre/?ALLSTEPS
+  http://www.instructables.com/id/Anamorphic-3-D-Images-with-Photoshop/?ALLSTEPS
+  Anamorphic artwork
+  Vector image black and white
+  Use projector / beamer
+Body project
+  Flash diet
+  Track body data
+    weight
+    bizeps
+    mood
+    training methods
+    meal
+  Picture every day
+Chrome plugin
+  "Leech block"
+  "Really" or "srsly?" in big font
+  Sad Face of Patrick Star from Spongebob
+  http://www.google.de/imgres?num=10&um=1&hl=de&safe=off&biw=1280&bih=679&tbm=isch&tbnid=sV9BD2jiC9aSZM:&imgrefurl=http://www.allposters.de/-sp/Spongebob-Patrick-Poster_i5031451_.htm&docid=134-X_9tDPobtM&imgurl=http://cache2.allpostersimages.com/p/LRG/36/3676/4SVCF00Z/poster/spongebob-patrick.jpg&w=300&h=450&ei=iitTUPEfx-K1BqWwgdAE&zoom=1&iact=hc&vpx=171&vpy=274&dur=3720&hovh=275&hovw=183&tx=97&ty=153&sig=111387691476648338090&sqi=2&page=1&tbnh=135&tbnw=89&start=0&ndsp=21&ved=1t:429,r:7,s:0,i:158
+  Appears when you click on reddit/facebook/youtube/hn/...
+  Has a "YES" and a "No" button
+  Redirect to site
+  Listen for Tabupdated events
+  http://saravananthirumuruganathan.wordpress.com/2010/05/12/google-chrome-extension-developer-guide-chrome-event-transitions/
+  https://code.google.com/p/saravanant/source/browse/trunk/chrome/chromeEventTransitions.zip
+Image morph tool in python
+  Input: Pictures
+  Output: Morphed / Tweened animation
+  Port this program:
+    Shapemorph2
+    http://effbot.org/tag/PIL.Image.Image.transform
+  To python using the Wand ImageMagick bindings:
+    http://dahlia.kr/wand/index.html
+Facebook Lite
+	Based on dotjs
+  A simple, cleaned up view on FB
+  Slow web movement
+  Opensource Views on your data
+    Customize css
+  Using Graph API
+  What it is for
+    Users who don't have a lot of time and energy to browse the whole page
+  A simple list of events on facebook
+    Pictures, Messages, Comments, Likes
+  Filter only important events.
+  Update every two days.
+Website redesign
+  Smartphone compatible
+  http://www.drewmackenzie.com/
+Post articles on lamernews to get steam on hn
+Port lisp audio programming library to riffwave
+  http://codebase.es/riffwave/
+Code documentation mindmap
+  Press ctrl+space to get a mindmap tree similar to FreeMind
+  using a REST API for search queries
+A text-only browser with beautiful markup
+  One colorscheme, font for the whole web
+Screencapture
+  http://pypi.python.org/pypi/castro/1.0.4
+Flashcard + Dotjs + Procrastination
+  http://defunkt.io/dotjs/
+  Javascript overlay
+  http://answers.oreilly.com/topic/1823-adding-a-page-overlay-in-javascript/
+RescueTime API
+  http://bl.ocks.org/3914862
+Playlist for Bands
+  Setlist creator generator maker
+Dropbox Gallery
+Facebook Frontend from Graph API
+Hack something together with a Weather API
+Old laptop as digital pictureframe
+8x8x8 LED cube
+hub - Home control
+  Controlled via
+    Send receive push notifications > pusher
+  Modules
+    Schedule alarms (via calendar)
+    Inside/outside temperature
+    Weather API
+    Time
+    TV Program
+    maybe Incoming messages
+      Doorbell, FB, SMS, EMAIL -> Growl
+  Connections
+    Living room, bedroom, bathroom, floor, office
+  Devices
+    HowTo Electricity
+      http://befinitiv.wordpress.com/2012/03/26/how-to-add-usb-to-radio-controlled-sockets/#
+    Light
+      Switch 1
+        TV Ambient
+        cabinet below tv
+        lamps in eating area
+      Switch 2
+        corridor
+        Door
+      Switch 3
+        bedroom
+          lamp and ambient
+      Switch 4
+        home office
+    Sound System
+    Video
+    maybe cooking devices
+    maybe LED Cube http://www.hownottoengineer.com/projects/rgb-led-cube.html#
+    maybe floor lamp http://www.instructables.com/id/Lampduino-an-8x8-RGB-Floor-Lamp/
+  Modes
+    Mood based
+      Love, Fire, Party
+    Automatic
+    Custom
+  Control with
+    TV
+    Phones
+    Home panel (ICOO D50 Lite A13 Tablet ca. 65€)
+      Cooking recpiees
+Scratches on MP3 CD
+Good fundamentals in CS
+  Minimal memory foodprint due to extreme constraints
+The new university
+  In the morning: Answer StackOverflow Questions
+  In the afternoon: Write code on github
+  Read HackerNews
+  Read free ebooks (SICP)
+Location service
+  Unlock current location for close friends
+  Who's around Bayreuth?
+Tethersocket
+  Tethering via HTML5 Websockets
+Create web app with
+  Junior Framework
+  lungo framework
+Github Mobile Web App
+Weißes app
+  http://dribbble.com/shots/741076-Free-iPhone-5-PSD-GUI-V4
+Log everything
+  CRUD app
+  Graphite
+    Dashboard
+    API for console
+  Extension system
+  Build extensions
+    RescueTime
+    RescueTime implementation
+    Last.fm
+    Facebook
+    Keystrokes
+    Mails
+    Everything that sends data in json
+    {timestamp, service value}
+Music mood
+  http://mbostock.github.com/protovis/
+Facebook is an API - lets create an alternative interface
+air bnb scroll effect
+vertical image slider
+Do something with ikea dioder oder china led
+Homepage
+  Font: http://www.google.com/webfonts/specimen/Imprima
+German Weather app
+  Will it rain during the next hour?
+  Like Dark Sky App
+  Use DWD Data
+    http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&_pageLabel=_dwdwww_menu2_leistungen_a-z_freiemetinfos&T115202758871200642573928gsbDocumentPath=Navigation%2FOeffentlichkeit%2FKlima__Umwelt%2FKlimadaten%2Fkldaten__kostenfrei%2FAbrufsysteme__Daten__node.html%3F__nnn%3Dtrue
+displaygasm wallpapers
+  Unfancy dsl
+  Programmatic wallpappers inspired by
+    http://www.flickr.com/photos/simoncpage/sets/72157623099901702/with/4296226201/
+    http://urbanape.com/blog/2013/02/19/dunno-if-its-art-but-i-like-it/
+    http://sebsauvage.net/webgobbler/
+    Typography
+    Awesome on retina
+    Native mac
+    Pro version with auto updates
+    Tron Art
+Measure all the things
+  Heartbeat
+  Car miles driven
+  Keystrokes
+Hackers welcome. Work at my place for free.
+  Couch surfing with an edge
+  I'm looking for creative people
+  Fork the project, describe your place, create a pull request.
+Article: Constraints - Time, Hunger,...
+Learn a new language
+  It saddens me when a programmer tells me, Java is his favorite language
+  Most of the time they don't have any comparison
+Our digital life is scattered across multiple devices and countless storage media
+From the digital camera with your vacation photos in your drawer to your private messages on Facebook...
+My blog is no longer static
+Blog series: Rebuild famous smarphone games
+  Word game
+  Quiz game
+VIM Code formatting tool
+  https://medium.com/p/3a6db2743a1e
+Thinking time
+Motivation
+Hub
+  Execute scripts when arriving at/leaving a certain location
+  Check WLAN networks
+  Networks are like a fingerprint for an environment
+  Example: Home network -> Execute script when coming home
+  (e.g.) switch the lights on

@@ -1,3 +1,7 @@
+Great minds look at the bigger picture, no matter where they work.
+  Guido van Rossum works at Google but he could also be working anywhere else. He builds flexible tools which implement the companies specification as a side-effect.
+  So many great engineers work at Facebook but they are not creating a PHP bulletin board. They are creating new forms of communication
+Compare movies and their successors (via IMDB rating)
 My new desktop (a language interface)
 Browsers: What I learned from "View source".
 python vs. ruby functional programming
@@ -82,8 +86,8 @@ Given an infite amount of time, what could you possibly accomplish?
 Essay
   Meandering, for me, is the true essence of an essay.
   A well-written essay takes you on a journey. A journey through your
-thoughts and lets you think about some abstract topic - Maybe even get a
-peak into the future.
+  thoughts and lets you think about some abstract topic - Maybe even get a
+  peak into the future.
 TeX/LaTeX
   Great system
     Hands down the best typesetting software
@@ -97,4 +101,77 @@ The problem with open source software
   Cups printer manager now at apple
   half baked drivers
 Spikes
-
+What I learned from writing my own CMS.
+  It's not your code it's the ecosystem that counts
+    Missing plugins
+      support
+      i18n
+  Feature creep is a pain
+Why I skipped Lion and why I'm afraid to update to Mountain Lion
+Skewomoprhism is not the right way
+  What is the native computer interface!?
+Youtube - The social network that doesn't exist
+  Social network for video discussions
+  Reddit interface
+    Threaded comments
+    Karma points
+It's 2013: Why do I still carry around my keys, wallet and smartphone, when
+  one device should be enough?
+Old icons
+  Diskette
+  Siri Mikrophon
+  Zahnräder/Schraubenschlüssel
+  Bookmark -> Lesezeichen, Anker, Kette
+  Pinsel
+  Brief
+  Sanduhr
+  Play icon
+  On/Off switch
+  Datenbank icon
+  Telefon mit Wählscheibe
+  ID Card
+  Taschenrechner
+  Lock -> Schloss
+  Lupe
+  Kompass -> Safari
+  Bald alt:
+    ID Card
+    Wecker
+    Einkaufswagen
+    Büroklammer
+    Calendar
+    Buch
+    Fotoapparat / Kamera
+    Batterie
+  Neu:
+    Upload to cloud
+    List icon
+    Map icon
+    Pfeil aus Rechteck
+    Star/Heart/Like -> soziale medien
+    Pfeil für Position
+  Herkunft
+    Eject icon
+On Wikipedia
+  Github interface  / Git Version control system
+    Foster contribution
+    Add transparency (who contributed what? Reliable source?)
+    Different people have different opinions
+      Fork articles -> no knowledge gets discarded
+    Built in
+      Article history
+      Simpler markup language
+  Thousands of vcs tools readily available
+  Distributed
+    Wikipedia.org is just a view
+    Reduces hosting costs
+Disassemble own code
+  http://www.mikeash.com/pyblog/friday-qa-2011-12-02-object-file-inspection-tools.html
+The Setup "Dream Setup"
+  I'm a bit disappointed by the lack of imagination when it comes to dream setups.
+Clocks
+  On every device
+  Go wrong
+  Bad design
+  Why have they been added?
+    It just was so easy

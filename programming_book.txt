@@ -1,0 +1,143 @@
+Create open programming book for beginners (children). Create illustrations. Publish.
+Dialect
+  Coffeescript (maybe)
+Abstract
+  Use a simple IDE and programming language to control a robot.
+  Learn everything on the go.
+  Everything is running inside a robot vm. Teach the robot to talk ("Hello World"), remember things ("File/DB Storage")
+  and interact with the environment ("walk" -> Logo, "network protocols", "sensors")
+  In the end, flash a chip with the code and create a real, working robot.
+Topics
+  Simple introduction comic
+    Stripe 1: Motivation
+      Working on a computer
+      "What are you doing?" "Programming a game"
+      Simple question game
+      Show window with game running. Play with it. Have fun.
+      "How is this working?"
+      Show source code on computer monitor. Editable!
+      "Try!"-Button
+        Switch between source and game
+      "Wow! That's awesome"
+    Rationale
+      Coding someting is more fun than using it (even games).
+      Automating stuff gives you superhero strength
+        Sort numbers and files
+      Teach a piece of metal how to do stuff.
+      Elegant, creative solutions
+    What you need
+      Patience
+        Learning a skill needs time. A lot of time.
+        Fortunately you can learn while doing cool things.
+      Curiosity
+      Creativity
+    What we will learn
+  Starting right away
+    Setup
+      Online edtior with local html5 storage (simple save button)
+    Question game
+      Printing Strings
+      Reading Strings
+  Datatypes
+    Working with Arrays
+      Game: Mastermind
+    Working with lists
+      Vocuabulary trainer
+        List words
+        Add word (tuple: word and translation)
+        Remove word
+  Libraries and reusable code
+    Write a simple library
+      Inspiration: Poignant guide (p. 100)
+      Standing on the shoulders of giants
+      Drawing with Processing.js Raphael
+        How are they doing this?
+        Writing your own graphic library
+        Use it
+          Wallpaper generator
+          Integrate into game
+      (Video Processing on Canvas)
+  GUIs
+    The web
+      Setup
+        JQuery
+      Modifying a website
+      Creating a website
+      Using APIs
+    Setup
+      Prepackaged IDE (sandbox) for Desktop
+      Node.js
+      Coffescript
+      npm
+      Cappucino
+      Titanium
+      Shoes
+      (Cocoa JS bindings)
+    A working app: Editor
+      Opening files
+      Writing files
+    Address Manager
+      Parsing files
+      Objects
+      Using databases (SQLite)
+  Number crunching can be fun
+    Maths
+    (Functional programming and lambda calculus)
+    Algorithms
+  Where to go from here
+    Build stuff! Anything, any language, any framework
+    Learn how to use a great editor (what makes a great editor)
+    Learn a version control system
+    Sign up to Github, Gitorious, Bitbucket, Google Code
+    Learn other languages
+      Why?
+      One other scripting language: Python, Ruby, Groovy
+      One systems language: C
+      One low-level language: Brainfuck, Assembler
+      One functional language: Lisp
+    Read programming blogs and a few coding guidelines
+      Zen of Python
+    Read code of others
+      Learn from great developers
+      Code with your friends
+        Fork projects, commit changes, pull requests
+    Ask questions
+    Contribute to an open community
+      Why this book can exist (because of open source software)
+      Whenever possible, share your code. It is for all our benefit.
+    Do reinvent the wheel
+      Write editors, browsers, interpreters that might suck. Have no fear
+    Be open for new stuff
+      Stay away from evangelists and uber-programmers
+      TDD, refactoring, design patterns are great but no eternal truth
+  Appendix
+    Why Coffeescript
+      The programming world changes rapidly.
+      JavaScript might be here to stay
+      For web and desktop use (node.js)
+      What the first programming needs to have
+        Low barrier of entry
+        High level
+        Multiple methodologies: Declarative, object orientated, functional
+          It grows with your abilities (Functional aspects)
+          http://blog.fogus.me/2011/10/18/programming-language-development-the-past-5-years/
+        Clear syntax to focus on concepts
+          Indendation enforces rigid code
+          Just like python it's precise, simple and readable
+    Philosophy
+      Tell only the things you urgently need to know
+      Explain the problem, make errors and come back to the solution
+      Elegant code
+      Make it platform independent
+    How to contribute to this book.
+      Layout:
+        Plain markdown files
+        Jekyll rendering for the web
+        CSS classes as tags, for instance:
+          { #note }, { #developer }
+        Fixed color palette: grey and red.
+        Funny pixel graphics
+          Maybe http://www.pixelpopdev.com/baby-the-code-shines-bright/
+          wants to donate a bunny?
+    References
+      https://github.com/jashkenas/coffee-script/wiki/In-The-Wild

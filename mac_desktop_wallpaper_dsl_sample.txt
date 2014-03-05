@@ -1,0 +1,25 @@
+magenta = (233,10,100)
+screen_width = get_size()[0]
+
+"""
+Pattern using python dictionaries.
+One could think of a JSON parser...or one for CSS
+"""
+circles = {
+  "center": range(20, screen_width, 20);
+  "radius": 10,
+  "start-angle": 0,
+  "end-angle": range(90, 360, 90)
+  "border-color": "magenta",
+  "border-size": 3,
+  "color": None,
+  "alpha": range(50, 100),
+  "rotation" range(0, 360)
+}
+
+animation = {
+  "duration": 4000,
+  "animate": [alpha, rotation]
+}
+
+p = PyStage(circles, animation, background=black, fullscreen=true)
